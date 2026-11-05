@@ -16,7 +16,7 @@ Official TRIIBE photos retained from the prior project files:
 No founder-specific grant amount or outcome is inferred.
 
 ## Generated illustrations
-Built-in image generation was used to create assets/hero.jpg, repair.jpg, community.jpg, map.jpg on 30 October 2026. They illustrate hypothetical scenarios; they are not photographs of actual TRIIBE or foundation activities.
+Built-in image generation was used to create hero.jpg, repair.jpg, community.jpg, map.jpg on 30 October 2026. They illustrate hypothetical scenarios; they are not photographs of actual TRIIBE or foundation activities.
 Prompt set: warm forest-green, sage and cream editorial gouache/paper illustrations, no text or emoji, showing (1) Chinese students planning a community project, (2) clothing repair, (3) an intergenerational community conversation, (4) accessible campus information exploration with a wheelchair user.
 
 ## Budgets and timing
